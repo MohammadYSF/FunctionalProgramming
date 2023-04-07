@@ -1,3 +1,4 @@
+### Research about F# and Haskell and their relation with λ-Calculus  . by Mohammad Yousefiyan
 # F# : Introduction
 
 **F#** is a **functional programming language** released in 2005 by **Microsoft**.Its main goal is to able .NET programmers to write code in a functional way. Although , it **supports OOP** paradigm . F# is **cross-platform** meaning that it can run on windows , mac and linux using the .NET SDK . One good thing about this language is that It can use any library written in C# or Visual Basic And vice versa.
